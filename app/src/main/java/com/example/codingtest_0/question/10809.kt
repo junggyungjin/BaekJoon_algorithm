@@ -13,3 +13,5 @@ fun main() {
 
     result.forEach { print("$it ") }
 }
+
+//TODO 블로그에 정리!!
